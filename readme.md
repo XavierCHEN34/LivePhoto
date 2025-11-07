@@ -23,18 +23,18 @@
 
 **LivePhoto-Wan2.1** supports text-guided image-to-video generation with control over motion intensity levels. Built upon the **Wan2.1-T2V-1.3B** architecture, it is adapted for I2V tasks using **Pusa** fine-tuning strategy. A **motion intensity module** is plugged in to adjust movement strength in the generated videos.
 
-  <table align="center">
-    <tr>
-    <td>
-      <img src="assets/teaser2.gif" width="60%">
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/teaser2.gif" width="75%">
     </td>
-    </tr>
-    <tr>
-    <td>
-      <img src="assets/teaser1.gif" width="60%">
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/teaser1.gif" width="75%">
     </td>
-    </tr>
-  </table>
+  </tr>
+</table>
 
 ### Installation
 ```
