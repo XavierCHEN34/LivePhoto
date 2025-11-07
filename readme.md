@@ -84,7 +84,7 @@ CUDA_VISIBLE_DEVICES=0 python examples/pusavideo/wan_14b_multi_frames_pusa.py \
 - Certain image types are likely to generate low quality videos, e.g. cartoon and animated contents, possibly due to dataset biases.
 
 ### Acknowledgement
-This version is developped upon the codebase of [Pusa-VidGen](https://github.com/Yaofang-Liu/Pusa-VidGen). Much appreciation for the insightful project.
+This version is developed upon the codebase of [Pusa-VidGen](https://github.com/Yaofang-Liu/Pusa-VidGen). Much appreciation for the insightful project.
 
 ## Citation
 If you find this codebase useful for your research, please use the following entry.
