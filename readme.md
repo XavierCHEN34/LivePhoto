@@ -80,6 +80,12 @@ CUDA_VISIBLE_DEVICES=0 python examples/pusavideo/wan_14b_multi_frames_pusa.py \
   --motion_intensity 6  # valid motion intensity levels from 1 through 6
 ```
 
+### Data Preparation
+
+For dataset structure and preparation steps, see the detailed guide in:
+
+[`PusaV1/dataset/README.md`](./PusaV1/dataset/README.md)
+
 ### Limitations
 - Video generation quality is inherently limited by the capabilities of the base Wan2.1-T2V-1.3B model, e.g., camera motion control is not currently supported.
 - Certain image types are likely to generate low quality videos, e.g. cartoon and animated contents, possibly due to dataset biases.
