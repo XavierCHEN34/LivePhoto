@@ -4,6 +4,7 @@
   <p align="center"> 
         <a href="https://arxiv.org/abs/2312.02928"><img src='https://img.shields.io/badge/arXiv-LivePhoto-red' alt='Paper PDF'></a>
         <a href='https://xavierchen34.github.io/LivePhoto-Page/'><img src='https://img.shields.io/badge/Project_Page-LivePhoto-green' alt='Project Page'></a>
+        <a href='https://huggingface.co/shirley430316/LivePhoto-Wan2.1'><img src='https://img.shields.io/badge/Livephoto-LivePhoto_Wan2.1-works?logo=huggingface&label=Checkpoint&color=%23FFD21E' alt='Project Page'></a>
     <br>
     <b>The University of Hong Kong &nbsp; | &nbsp;  Alibaba Group  | &nbsp;  Ant Group </b>
   </p>
